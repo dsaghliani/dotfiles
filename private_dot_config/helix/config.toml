@@ -1,0 +1,9 @@
+theme = "adwaita-light"
+
+[editor]
+line-number = "relative"
+cursorcolumn = true
+completion-timeout = 50
+
+[editor.soft-wrap]
+enable = true
